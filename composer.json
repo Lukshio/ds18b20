@@ -1,5 +1,5 @@
 {
-    "name": "lukshio/ds18b20",
+    "name": "lukshio/ds18b20-multibus",
     "description": "The DS18B20 Sensor Multibus Handling PHP Package",
     "license": "MIT",
     "authors": [
