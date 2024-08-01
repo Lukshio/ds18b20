@@ -1,11 +1,15 @@
 {
-    "name": "azolee/ds18b20",
-    "description": "The DS18B20 Sensor Handling PHP Package",
+    "name": "lukshio/ds18b20",
+    "description": "The DS18B20 Sensor Multibus Handling PHP Package",
     "license": "MIT",
     "authors": [
         {
             "name": "András Zoltan-Gyárfás",
             "email": "azolee@gmail.com"
+        },
+        {
+            "name": "Lukáš Ježek",
+            "email": "vedeni@jktech.cz"
         }
     ],
     "minimum-stability": "dev",
